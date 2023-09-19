@@ -10,3 +10,7 @@
 $git init
 Initializes Git repo https://github.com/PatelVaidikH/GUI_elective
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
