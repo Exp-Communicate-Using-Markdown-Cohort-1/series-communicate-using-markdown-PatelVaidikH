@@ -5,3 +5,8 @@
 ### Learning Markdown
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```
+$git init
+Initializes Git repo https://github.com/PatelVaidikH/GUI_elective
+```
